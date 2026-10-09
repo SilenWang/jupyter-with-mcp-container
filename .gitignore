@@ -1,0 +1,8 @@
+# pixi environment created by `pixi install` (inside the image, or locally)
+.pixi/
+
+# notebooks written by the agent / by you
+notebooks/
+
+*.log
+.DS_Store
